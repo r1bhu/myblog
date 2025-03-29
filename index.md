@@ -3,6 +3,25 @@ title: Home
 layout: home
 ---
 
+# Behold!
+
+.. image:: images/linkedinPfp.jpg
+  :width: 400
+  :alt: Alternative text
+  :align: center
+
+# About Me
+
+I am a Master’s student at Georgia Tech, majoring in Electrical and Computer Engineering. I love to work on the fine line dividing Hardware and Software. I used to work as an Embedded Software Engineer at Analog Devices, India - and got my first, official introduction to the world of logic analyzers, microcontroller firmware, schematics and FPGAs there.
+
+This is where I intend to dump
+
+- showerthoughts
+- links to rabbit holes that I’d want to dive in later (read: never), and
+- stuff
+
+Occasionally I might also add content mildly relevant to the general engineering community.
+
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
 If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
